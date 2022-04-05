@@ -5,9 +5,10 @@
 //numbers array
 //spec chars array
 //upper case letter array
+// password length string 
+//confirm selected add number,special chars,uppercase/ true-false
 //piggybank array
-//text output field
-//output password
+
 
 //============PROMPTS / STORING RESPONSES
 //how long is the password?
